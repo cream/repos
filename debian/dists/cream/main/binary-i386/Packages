@@ -1,0 +1,153 @@
+Package: screenhunter
+Priority: optional
+Section: python
+Installed-Size: 56
+Maintainer: Kristoffer Kleine <kris.kleine@yahoo.de>
+Architecture: all
+Version: 0.0.2-2
+Depends: python (>= 2.6), python-support (>= 0.90.0), python-gtk2, cream-libs, python-gst0.10
+Filename: dists/cream/main/binary-i386/screenhunter_0.0.2-2_all.deb
+Size: 7144
+MD5sum: ff71903e30f7a76bbae0e28fe332d6f1
+SHA1: 45c9d391e6336af9b607a6e910497cf4a5e63fc5
+SHA256: 0b1481311d6a80fc6ed1feaef68517e7ded214f2921af8481c542ba0c6d52e7b
+Description: 
+ A screenshot application for the Cream Desktop Environment.
+Homepage: https://github.com/sbillaudelle/screenhunter
+
+Package: console
+Priority: optional
+Section: python
+Installed-Size: 44
+Maintainer: Kristoffer Kleine <kris.kleine@yahoo.de>
+Architecture: all
+Version: 0.0.9-1
+Depends: python (>= 2.6), python-support (>= 0.90.0), python-gtk2, python-vte, cream-libs
+Filename: dists/cream/main/binary-i386/console_0.0.9-1_all.deb
+Size: 5476
+MD5sum: 86abcbe850b8a3c9e6bbc2d5730d3ea2
+SHA1: 3018646f17f84409cf6f540cd3970929575fbecb
+SHA256: 820bc2fc9b4c1d23578e878adaa5dc9c0fdd2ed43fb68288b2e0fa3adfce54b7
+Description: 
+ A console for the Cream Desktop.
+Homepage: https://github.com/cream/console
+
+Package: bjoern
+Priority: optional
+Section: python
+Installed-Size: 60
+Maintainer: Kristoffer Kleine <kris.kleine@yahoo.de>
+Architecture: i386
+Version: 1.1-1
+Depends: python (<< 2.7), python (>= 2.6), python-support (>= 0.90.0), libev-dev
+Filename: dists/cream/main/binary-i386/bjoern_1.1-1_i386.deb
+Size: 17640
+MD5sum: 84757478d3da9319f78994f877205194
+SHA1: e97219c8f6f063c052210f7d29f6bb13cc576f7c
+SHA256: 8bd8d7b1c6760d02a9f0634a82220d46bc9b4c8b17fd83533b1e2813a36cb502
+Description: A Python WSGI server written in C.
+ A screamingly fast Python WSGI server written in C.
+Homepage: https://github.com/jonashaag/bjoern
+
+Package: xmlserialize
+Priority: optional
+Section: python
+Installed-Size: 40
+Maintainer: Kristoffer Kleine <kris.kleine@yahoo.de>
+Architecture: all
+Version: 1.0-1
+Depends: python (>= 2.6), python-support (>= 0.90.0), python-lxml
+Filename: dists/cream/main/binary-i386/xmlserialize_1.0-1_all.deb
+Size: 5642
+MD5sum: 0d9d3412b01fdf95c3a18385b5532f88
+SHA1: a410dfe9c8ee49b06707b6da0b074e543e5ceb53
+SHA256: 32743d398be919f1b5cc21c7323f2faffbafd09302b5cb235da1f1a41657dc3e
+Description: An extensible Python-(to|from)-xml-(un)serializer
+ An extensible Python-(to|from)-xml-(un)serializer in beautiful pure-Python code.
+Homepage: https://github.com/jonashaag/xmlserialize.py
+
+Package: pyjavascriptcore
+Priority: optional
+Section: python
+Installed-Size: 156
+Maintainer: Kristoffer Kleine <kris.kleine@yahoo.de>
+Architecture: all
+Version: 0.1-1
+Depends: python (<< 2.7), python (>= 2.6), python-support (>= 0.90.0)
+Filename: dists/cream/main/binary-i386/pyjavascriptcore_0.1-1_all.deb
+Size: 46506
+MD5sum: f9cd15c58a50a7214750ceb71f98f87e
+SHA1: 705961acc90735149539112b1b2c2a3b9667a28f
+SHA256: b7e603b6af59ee82ec012db5d5a2d611dcb16f7a235e564979858d0bc42aabf1
+Description: Use Python to tap into the whole power of WebKit.
+ Use Python to tap into the whole power of WebKit.
+Homepage: https://launchpad.net/pyjavascriptcore
+
+Package: ooxcb
+Priority: optional
+Section: python
+Installed-Size: 816
+Maintainer: Kristoffer Kleine <kris.kleine@yahoo.de>
+Architecture: all
+Version: 1.1-1
+Depends: python (>= 2.6), python-support (>= 0.90.0), libxcb1
+Filename: dists/cream/main/binary-i386/ooxcb_1.1-1_all.deb
+Size: 112716
+MD5sum: b3024c96965c97924d25509a3addb51c
+SHA1: 8ae2a3669f7dd744801cb8af3a413039e60710f6
+SHA256: fe2afbde73e239ca1f41f6940e5ea955a3469f0173fe55815ab3a04fdc4b5cde
+Description: An X Python Binding.
+ An object-oriented X Python Binding, based on xpyb
+Homepage: http://samurai-x.org
+
+Package: cream-hotkey-manager
+Priority: optional
+Section: python
+Installed-Size: 36
+Maintainer: Kristoffer Kleine <kris.kleine@yahoo.de>
+Architecture: all
+Version: 0.0.5-1
+Depends: python (>= 2.6), python-support (>= 0.90.0), python-gtk2, python-gobject, ooxcb, cream-libs
+Filename: dists/cream/main/binary-i386/cream-hotkey-manager_0.0.5-1_all.deb
+Size: 4086
+MD5sum: c4990a276a4f8648a1085185cea75c13
+SHA1: 7f28c8f7252a4254fc462d87662781c6f7ffa701
+SHA256: 8f6d3d0c7e9eeb37483e3050c48bd0f750d58e88f320caa0448eb935572741e8
+Description: 
+ A module managing global hotkeys...
+Homepage: https://github.com/cream/hotkey-manager
+
+Package: gpyconf
+Priority: optional
+Section: python
+Installed-Size: 184
+Maintainer: Kristoffer Kleine <kris.kleine@yahoo.de>
+Architecture: all
+Version: 0.2beta-1
+Depends: python (>= 2.6), python-support (>= 0.90.0), python-lxml, python-gtk2
+Filename: dists/cream/main/binary-i386/gpyconf_0.2beta-1_all.deb
+Size: 27898
+MD5sum: 2160dcdf5cad24def4ed22409cf2d46d
+SHA1: 98c73ec2a3e0508c6cddbfdb3381e26ae6dccf5b
+SHA256: 21f53d5191ef26550c2ae8db8ba5af84a73293767f7ccf222d36e76097abbf71
+Description: 
+ A modular Python configuration framework with support for multiple backends (ConfigParser, XML, JSON, ...) and multiple frontends (GTK+, Web, ...).
+Homepage: http://gpyconf.lophus.org/
+
+Package: cream-libs
+Priority: optional
+Section: python
+Installed-Size: 192
+Maintainer: Kristoffer Kleine <kris.kleine@yahoo.de>
+Architecture: all
+Version: 0.4-2
+Depends: python (>= 2.6), python-support (>= 0.90.0), python-gobject, python-gtk2, python-cairo, python-lxml, xmlserialize, gpyconf, librsvg2-2, python-dbus, ooxcb
+Filename: dists/cream/main/binary-i386/cream-libs_0.4-2_all.deb
+Size: 28664
+MD5sum: ec9ded0d54560b60ef4674c308ed930f
+SHA1: d355bb52d5a90c6c5a6308cf16bb47b83d7e72b0
+SHA256: c1951e25f6c890e5f680a1d988bdb459eefba7174d1ad77fbf21536c4ced7e9a
+Description: Python libraries for the Cream Desktop.
+ Python libraries for the Cream Desktop.
+Homepage: https://github.com/cream/libs
+
