@@ -15,6 +15,23 @@ Description:
  A screenshot application for the Cream Desktop Environment.
 Homepage: https://github.com/sbillaudelle/screenhunter
 
+Package: melange-widgets
+Priority: optional
+Section: python
+Installed-Size: 3140
+Maintainer: Kristoffer Kleine <kris.kleine@yahoo.de>
+Architecture: all
+Version: 0.4-1
+Depends: python (>= 2.6), python-support (>= 0.90.0), cream-libs, melange, cream-pim, python-feedparser, python-lxml
+Filename: dists/cream/main/binary-i386/melange-widgets_0.4-1_all.deb
+Size: 923934
+MD5sum: 0070970343566008a1cd29203b07c335
+SHA1: 3fc101101273506d973ef14502770a6889573fb0
+SHA256: ac6734cf5c7787775497bcc9ec0339a98aa4020e01143fe719ef53d2c1982c28
+Description: 
+ Widgets for Melange
+Homepage: https://github.com/cream/melange-widgets
+
 Package: console
 Priority: optional
 Section: python
@@ -65,6 +82,23 @@ SHA256: 32743d398be919f1b5cc21c7323f2faffbafd09302b5cb235da1f1a41657dc3e
 Description: An extensible Python-(to|from)-xml-(un)serializer
  An extensible Python-(to|from)-xml-(un)serializer in beautiful pure-Python code.
 Homepage: https://github.com/jonashaag/xmlserialize.py
+
+Package: melange
+Priority: optional
+Section: python
+Installed-Size: 1040
+Maintainer: Kristoffer Kleine <kris.kleine@yahoo.de>
+Architecture: all
+Version: 0.4-1
+Depends: python (>= 2.6), python-support (>= 0.90.0), cream-libs, gpyconf, bjoern, pyjavascriptcore, python-gobject, python-webkit, python-gtk2
+Filename: dists/cream/main/binary-i386/melange_0.4-1_all.deb
+Size: 397442
+MD5sum: cb1a4429111aa54d7117b21a711da57d
+SHA1: 6c483f9a77a4a4d6aaf951f93c6215ae841240bf
+SHA256: 79e9e6ca2f4fd1a755f4fee845310eff3b1a433c163a9240a25787a0ce31e856
+Description: 
+ A widget system for the Cream Desktop Environment.
+Homepage: https://github.com/cream/melange
 
 Package: pyjavascriptcore
 Priority: optional
