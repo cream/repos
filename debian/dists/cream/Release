@@ -1,7 +1,7 @@
-Architectures: i386
+Architectures: i386 source
 Codename: cream
 Components: main
-Date: Tue, 08 Feb 2011 13:26:47 UTC
+Date: Thu, 17 Mar 2011 17:44:51 UTC
 Description: Debian packages for Cream Desktop Environment
 Label: debian
 Origin: debian
@@ -10,11 +10,17 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e                0 Release
  34183250a69772d35d40261656f1ed8b             6967 main/binary-i386/Packages
  5a836a5e502a329f40200451f24cc9d9             2260 main/binary-i386/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e                0 main/source/Sources
+ 4a4dd3598707603b3f76a2378a4504aa               20 main/source/Sources.gz
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709                0 Release
  0056835965736b6ad640df5313b0f1b1e34a7713             6967 main/binary-i386/Packages
  5bfc1a431d5a9241784e28c17d9cbca211ad8404             2260 main/binary-i386/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709                0 main/source/Sources
+ a0fddd5458378c1bf3c10dd2f5c060d1347741ed               20 main/source/Sources.gz
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 Release
  32ed288b4a52d1bc0c51e1e451a19668ee577cc271a38a273ba263b3a8764da8             6967 main/binary-i386/Packages
  ac7b7015e646c1b62cd45afbc49513724d1c732531e7ee86e4914c3bebf22c52             2260 main/binary-i386/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855                0 main/source/Sources
+ f61f27bd17de546264aa58f40f3aafaac7021e0ef69c17f6b1b4cd7664a037ec               20 main/source/Sources.gz
